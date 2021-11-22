@@ -1,6 +1,6 @@
-# To-Do list #
+# Nasa Aplikace #
 ## Verze 1.0 ##
-## 15. 05. 2021 ##
+## 15. 11. 2021 ##
 ## Filip Kováč ##
 
 ### 1. Úvod ###
